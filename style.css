@@ -414,7 +414,7 @@ body {
 
     .conteiner-conteudo {
         margin: 40px 0px;
-        width: 400px;
+        width: 380px;
     }
 
 }
@@ -540,13 +540,13 @@ body {
 
     .home-text .button_call {
 
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         font-weight: 600;
     }
 
 
     .home-text .button_call:hover {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
     }
 
 
