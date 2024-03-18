@@ -574,15 +574,11 @@ body {
     }
 
     .sobre-text{
-        width: 360px;
+        width: 355px;
     }
 
-    /* .sobre-text-title{
-        width: auto;
-    } */
-
     .sobre-text-container{
-        max-width: 360px;
+        max-width: 345px;
 
     }
 
