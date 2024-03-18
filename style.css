@@ -117,13 +117,13 @@ body {
     background: var(--white);
     background-image: url('./medias/background_superior_2.png');
     background-position: top center;
-    /* background-repeat: no-repeat;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 75px 10%; */
+    padding: 75px 10%;
 }
 
 .home-text {
@@ -215,7 +215,7 @@ body {
 }
 
 .sobre #vendas_pq {
-    margin: 0;
+    /* margin: 0; */
     padding: auto 0;
 }
 
@@ -569,6 +569,10 @@ body {
 
     .home-text-button img {
         padding-right: 7px;
+    }
+    .sobre{
+        margin-left: 0px;
+        padding-left: 0px;
     }
 
     .sobre-text{
